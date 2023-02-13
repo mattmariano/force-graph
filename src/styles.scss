@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.graph {
+  background: white;
+  height: 100vh;
+  width: 100vw;
+}
+
+.ui {
+  z-index: 2;
+  padding: 2rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.active-node {
+  color: white;
+}
